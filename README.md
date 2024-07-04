@@ -12,4 +12,4 @@
 
 - [Test your satellite images](https://huggingface.co/spaces/ttd22/segment-anything-model) here or use sample satellite images to segment sidewalks.
 
-![alt text](output.png)
+![alt text](image.png)
