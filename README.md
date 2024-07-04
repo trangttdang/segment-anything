@@ -11,3 +11,5 @@
 - Model trained on High Performance Computing (hpc) is now on [Hugging Face](https://huggingface.co/ttd22/segment-anything/blob/main/sam_model.pth).
 
 - [Test your satellite images](https://huggingface.co/spaces/ttd22/segment-anything-model) here or use sample satellite images to segment sidewalks.
+
+![alt text](output.png)
